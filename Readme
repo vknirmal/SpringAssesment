@@ -1,0 +1,8 @@
+### Developed using selenium and Java using Cucumber BDD
+
+Feature file is located in : src/test/resources/features
+Page Class is located in : src/test/java/pages
+Test Step is located in : src/test/java/steps
+
+
+Run "mvn test" to run the test
